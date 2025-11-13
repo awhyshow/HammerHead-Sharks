@@ -10,7 +10,7 @@
 
 ### To improve:
 
-- Would make a few more sections in the Jupyter notebook and order them with the hashtags (#)! 
+- Would make a few more sections in the Jupyter notebook and order them with the hashtags (#)!
 - Create intermediate data files!
 - Rename Jupyter notebook - it should be `data-cleaning`, not `shark-attack`, as you want separate notebooks for separate steps of the analysis process.
 
