@@ -9,7 +9,7 @@
 - Geographical Location;
 - Fatality;
 - Injury type;
-- Sea temperature.
+- Weather.
 
 2.  Create a solution to prevent shark attacks.
 
@@ -38,7 +38,7 @@ RUN IN TERMINAL AND PASTE HERE AT THE END OF THE PROJECT: "tree -L 2"
 2. Feature Analysis:
 
    - Examine relationships between activity type, location, time, and severity
-   - Integrate sea temperature data using the _Meteostat_ API
+   - Integrate weather data using the _Meteostat_ API
 
 3. Visualization:
 
