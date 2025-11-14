@@ -25,7 +25,11 @@ We believe that if we create an App that warns in real time the shark attack dan
 # Project Structure:
 
 ```
-RUN IN TERMINAL AND PASTE HERE AT THE END OF THE PROJECT: "tree -L 2"
+├── data
+├── notebooks
+├── Plots
+├── src
+└── README.md
 ```
 
 # Project Workflow:
@@ -47,3 +51,9 @@ RUN IN TERMINAL AND PASTE HERE AT THE END OF THE PROJECT: "tree -L 2"
 4. Insights & Solution Proposal:
    - Identify key patterns in shark attacks;
    - Propose a **real-time warning system app** as a solution.
+
+# PROJECT PRESENTATION:
+
+- https://www.canva.com/design/DAG37kukdQs/BEGJBdQbG75jG5fv8x3Htg/edit?utm_content=DAG37kukdQsutm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Thank you for your time :D
